@@ -6,7 +6,7 @@ Python
 HTML
 CSS
 JS
-NOT: Şimdilik python projeleri yayınlayacağım ilerleyen zamanlarda HTML,CSS,JS Projeleri Ve Öğretici Notları(HTML,CSS,JS dillerini öğrenmenize yardımcı olmak için) yayınlayabilirim.
+NOT: Şimdilik python projeleri yayınlayacağım ilerleyen zamanlarda HTML,CSS,JS Projeleri yayınlayabilirim.
 
 NOT: Projelerim ve yazılımlarım GPL2 Lisansına sahiptir. (İlerleyen zamanlarda Lisans değişikliği yapılabilir.)
 
@@ -18,6 +18,6 @@ Python
 HTML
 CSS
 JS
-NOTE: I will publish python projects for now, I can publish HTML, CSS, JS Projects and Tutorial Notes (to help you learn HTML, CSS, JS languages) in the future.
+NOTE: I will publish python projects for now, I can publish HTML, CSS, JS Projects
 
 NOTE: My projects and software have GPL2 License. (License changes may be made in the future.)
