@@ -38,17 +38,10 @@ Kullandığım Ve Deneyimlediğim işletim sistemleri:
    * MikeOS and MikeOS Distribution (VMware Workstation)
    * MSDOS (VMware Workstation)
    * macOS Mavericks 10.9.5 (VMware Workstation)
+  
+English (İngilizce):
 
-English(İngilizce):
-
-Hello I am LinuxUsersLinuxMint My real name is Hope I am 14 years old I am interested in software and I am using Linux Mint.
-Programming Languages ​​I'm Interested In:
-* Python
-* HTML
-* CSS
-* JS
-
-NOTE: My projects and software have GPL2 License. (License changes may be made in the future.)
+Hello, I am LinuxUsersLinuxMint. My real name is Umut. I am 14 years old. I am interested in software and I use Linux Mint.
 
 * Programming Languages ​​and Tools I Know/Used (Basic / Intermediate / Advanced Level)
   * Programming Tools I Know (What I Use)
@@ -60,23 +53,24 @@ NOTE: My projects and software have GPL2 License. (License changes may be made i
     * CSS (Intermediate)
     * JS (Simple Level)
    
-
-* Programming Languages ​​I'm Interested In:
- * Python
- * HTML
- * CSS
- * JS
-
-* Programming languages ​​that are in my target for the future:
+* Programming Languages ​​I am Interested in and Aim for:
+ * Programming Languages ​​I'm Interested In:
+  * Python
+  * HTML
+  * CSS
+  * JS
+ * Programming languages ​​that are in my target for the future:
   * C
   * CPP / C++
   * Assembly (Simple or intermediate level)
   * C# / CS
 
+NOTE: My projects and software have GPL2 License. (License changes may be made in the future.)
+
 Operating systems I use and experience:
  * Operating Systems I use:
-   * Windows 10,11
-   * Linux Mint
+   *Windows 10,11
+   *Linux Mint
  * Operating systems I have experience with:
    * Windows Xp,Vista,7,8.1 (VMware Workstation)
    * Ubuntu Desktop 20+ (Live CD and VMware Workstation)
