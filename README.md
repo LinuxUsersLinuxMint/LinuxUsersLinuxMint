@@ -35,8 +35,8 @@ NOTE: My projects and software have GPL2 License. (License changes may be made i
 
 Operating systems I use and experience:
  * Operating Systems I use:
-   *Windows 10,11
-   *Linux Mint
+   * Windows 10,11
+   * Linux Mint
  * Operating systems I have experience with:
    * Windows Xp,Vista,7,8.1 (VMware Workstation)
    * Ubuntu Desktop 20+ (Live CD and VMware Workstation)
