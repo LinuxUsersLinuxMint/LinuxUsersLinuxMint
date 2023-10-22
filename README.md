@@ -18,7 +18,7 @@ Merhaba Ben LinuxUsersLinuxMint Gerçek Adım Umut 14 Yaşımdayım Yazılım İ
    * HTML
    * CSS
    * JS
-  * Gelecek için Hedefimde Olan Programlama dilleri:
+ * Gelecek için Hedefimde Olan Programlama dilleri:
    * C
    * CPP / C++
    * Assembly (Basit veya orta düzeyde)
