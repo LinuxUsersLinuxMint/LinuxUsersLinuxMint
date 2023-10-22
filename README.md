@@ -1,6 +1,7 @@
 Turkish(Türkçe):
 
 Merhaba Ben LinuxUsersLinuxMint Gerçek Adım Umut 14 Yaşımdayım Yazılım İle ilgileniyorum ve Linux Mint kullanıyorum.
+NOT: Projelerim ve yazılımlarım GPL2 Lisansına sahiptir. (İlerleyen zamanlarda Lisans değişikliği yapılabilir.)
 
 * Bildiğim Programlama Dilleri Ve Araçları/Kullandığım (Basit / Orta / İleri Düzey)
   * Bildiğim Programlama Araçları (Kullandığım)
@@ -12,8 +13,8 @@ Merhaba Ben LinuxUsersLinuxMint Gerçek Adım Umut 14 Yaşımdayım Yazılım İ
     * CSS (Orta Düzey)
     * JS (Basit Düzey)
    
-* İlgilendiğim Ve Hedefimde Olan Programlama Dilleri
- * İlgilendiğim Programlama Dilleri
+* İlgilendiğim Ve Hedefimde Olan Programlama Dilleri:
+ * İlgilendiğim Programlama Dilleri:
    * Python
    * HTML
    * CSS
@@ -23,8 +24,6 @@ Merhaba Ben LinuxUsersLinuxMint Gerçek Adım Umut 14 Yaşımdayım Yazılım İ
    * CPP / C++
    * Assembly (Basit veya orta düzeyde)
    * C# / CS
-
-NOT: Projelerim ve yazılımlarım GPL2 Lisansına sahiptir. (İlerleyen zamanlarda Lisans değişikliği yapılabilir.)
 
 * Kullandığım Ve Deneyimlediğim işletim sistemleri:
  * Kullandığım İşletim Sistemleri:
@@ -42,6 +41,7 @@ NOT: Projelerim ve yazılımlarım GPL2 Lisansına sahiptir. (İlerleyen zamanla
 English (İngilizce):
 
 Hello, I am LinuxUsersLinuxMint. My real name is Umut. I am 14 years old. I am interested in software and I use Linux Mint.
+NOTE: My projects and software have GPL2 License. (License changes may be made in the future.)
 
 * Programming Languages ​​and Tools I Know/Used (Basic / Intermediate / Advanced Level)
   * Programming Tools I Know (What I Use)
@@ -54,18 +54,16 @@ Hello, I am LinuxUsersLinuxMint. My real name is Umut. I am 14 years old. I am i
     * JS (Simple Level)
    
 * Programming Languages ​​I am Interested in and Aim for:
-  * Programming Languages ​​I'm Interested In:
+ * Programming Languages ​​I'm Interested In:
    * Python
    * HTML
    * CSS
    * JS
-  * Programming languages ​​that are in my target for the future:
+ * Programming languages ​​that are in my target for the future:
    * C
    * CPP / C++
    * Assembly (Simple or intermediate level)
    * C# / CS
-
-NOTE: My projects and software have GPL2 License. (License changes may be made in the future.)
 
 * Operating systems I use and experience:
  * Operating Systems I use:
