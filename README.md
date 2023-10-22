@@ -13,7 +13,7 @@ Merhaba Ben LinuxUsersLinuxMint Gerçek Adım Umut 14 Yaşımdayım Yazılım İ
     * JS (Basit Düzey)
    
 * İlgilendiğim Ve Hedefimde Olan Programlama Dilleri:
-  * İlgilendiğim Programlama Dilleri:
+ * İlgilendiğim Programlama Dilleri:
    * Python
    * HTML
    * CSS
