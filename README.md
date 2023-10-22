@@ -6,7 +6,6 @@ Merhaba Ben LinuxUsersLinuxMint Gerçek Adım Umut 14 Yaşımdayım Yazılım İ
 * HTML
 * CSS
 * JS
-NOT: Şimdilik python projeleri yayınlayacağım ilerleyen zamanlarda HTML,CSS,JS Projeleri yayınlayabilirim.
 
 NOT: Projelerim ve yazılımlarım GPL2 Lisansına sahiptir. (İlerleyen zamanlarda Lisans değişikliği yapılabilir.)
 
@@ -18,6 +17,5 @@ Programming Languages ​​I'm Interested In:
 * HTML
 * CSS
 * JS
-NOTE: I will publish python projects for now, I can publish HTML, CSS, JS Projects
 
 NOTE: My projects and software have GPL2 License. (License changes may be made in the future.)
