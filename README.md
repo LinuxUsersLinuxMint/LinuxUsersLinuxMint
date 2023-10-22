@@ -62,13 +62,13 @@ NOTE: My projects and software have GPL2 License. (License changes may be made i
    
 
 * Programming Languages ​​I'm Interested In:
- *Python
+ * Python
  * HTML
- *CSS
- *J.S.
+ * CSS
+ * JS
 
 * Programming languages ​​that are in my target for the future:
-  *C
+  * C
   * CPP / C++
   * Assembly (Simple or intermediate level)
   * C# / CS
