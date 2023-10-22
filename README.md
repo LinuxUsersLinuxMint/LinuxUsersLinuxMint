@@ -1,11 +1,29 @@
 Turkish(Türkçe):
 
 Merhaba Ben LinuxUsersLinuxMint Gerçek Adım Umut 14 Yaşımdayım Yazılım İle ilgileniyorum ve Linux Mint kullanıyorum.
-İlgilendiğim Programlama Dilleri:
-* Python
-* HTML
-* CSS
-* JS
+
+* Bildiğim Programlama Dilleri Ve Araçları/Kullandığım (Basit / Orta / İleri Düzey)
+  * Bildiğim Programlama Araçları (Kullandığım)
+    * Visual Studio Code (Orta Düzey)
+    * Visual Studio 2019,2021,2022 (Basit Düzey)
+  * Bildiğim Programlama Dilleri (Basit / Orta / İleri Düzey):
+    * Python (Orta Düzey)
+    * HTML (Programlama değil işaretleme dilidir.) (Orta Düzey)
+    * CSS (Orta Düzey)
+    * JS (Basit Düzey)
+   
+
+* İlgilendiğim Programlama Dilleri:
+ * Python
+ * HTML
+ * CSS
+ * JS
+
+* Gelecek için Hedefimde Olan Programlama dilleri:
+  * C
+  * CPP / C++
+  * Assembly (Basit veya orta düzeyde)
+  * C# / CS
 
 NOT: Projelerim ve yazılımlarım GPL2 Lisansına sahiptir. (İlerleyen zamanlarda Lisans değişikliği yapılabilir.)
 
@@ -32,6 +50,29 @@ Programming Languages ​​I'm Interested In:
 * JS
 
 NOTE: My projects and software have GPL2 License. (License changes may be made in the future.)
+
+* Programming Languages ​​and Tools I Know/Used (Basic / Intermediate / Advanced Level)
+  * Programming Tools I Know (What I Use)
+    * Visual Studio Code (Intermediate)
+    * Visual Studio 2019,2021,2022 (Basic Level)
+  * Programming Languages ​​I Know (Basic / Intermediate / Advanced):
+    * Python (Intermediate)
+    * HTML (It is a markup language, not a programming language.) (Intermediate)
+    * CSS (Intermediate)
+    * JS (Simple Level)
+   
+
+* Programming Languages ​​I'm Interested In:
+ *Python
+ * HTML
+ *CSS
+ *J.S.
+
+* Programming languages ​​that are in my target for the future:
+  *C
+  * CPP / C++
+  * Assembly (Simple or intermediate level)
+  * C# / CS
 
 Operating systems I use and experience:
  * Operating Systems I use:
