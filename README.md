@@ -6,7 +6,7 @@ NOT: Projelerim ve yazılımlarım GPL2 Lisansına sahiptir. (İlerleyen zamanla
 * Bildiğim Programlama Dilleri Ve Araçları/Kullandığım (Basit / Orta / İleri Düzey)
   * Bildiğim Programlama Araçları (Kullandığım)
     * Visual Studio Code (Orta Düzey)
-    * Visual Studio 2019,2021,2022 (Basit Düzey)
+    * Visual Studio 2019,2022 (Basit Düzey)
   * Bildiğim Programlama Dilleri (Basit / Orta / İleri Düzey):
     * Python (Orta Düzey)
     * HTML (Programlama değil işaretleme dilidir.) (Orta Düzey)
@@ -46,7 +46,7 @@ NOTE: My projects and software have GPL2 License. (License changes may be made i
 * Programming Languages ​​and Tools I Know/Used (Basic / Intermediate / Advanced Level)
   * Programming Tools I Know (What I Use)
     * Visual Studio Code (Intermediate)
-    * Visual Studio 2019,2021,2022 (Basic Level)
+    * Visual Studio 2019,2022 (Basic Level)
   * Programming Languages ​​I Know (Basic / Intermediate / Advanced):
     * Python (Intermediate)
     * HTML (It is a markup language, not a programming language.) (Intermediate)
