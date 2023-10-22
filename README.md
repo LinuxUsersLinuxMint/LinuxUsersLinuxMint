@@ -13,20 +13,20 @@ Merhaba Ben LinuxUsersLinuxMint Gerçek Adım Umut 14 Yaşımdayım Yazılım İ
     * JS (Basit Düzey)
    
 * İlgilendiğim Ve Hedefimde Olan Programlama Dilleri:
- * İlgilendiğim Programlama Dilleri:
-  * Python
-  * HTML
-  * CSS
-  * JS
- * Gelecek için Hedefimde Olan Programlama dilleri:
-  * C
-  * CPP / C++
-  * Assembly (Basit veya orta düzeyde)
-  * C# / CS
+  * İlgilendiğim Programlama Dilleri:
+   * Python
+   * HTML
+   * CSS
+   * JS
+  * Gelecek için Hedefimde Olan Programlama dilleri:
+   * C
+   * CPP / C++
+   * Assembly (Basit veya orta düzeyde)
+   * C# / CS
 
 NOT: Projelerim ve yazılımlarım GPL2 Lisansına sahiptir. (İlerleyen zamanlarda Lisans değişikliği yapılabilir.)
 
-Kullandığım Ve Deneyimlediğim işletim sistemleri:
+* Kullandığım Ve Deneyimlediğim işletim sistemleri:
  * Kullandığım İşletim Sistemleri:
    * Windows 10,11
    * Linux Mint
@@ -54,23 +54,23 @@ Hello, I am LinuxUsersLinuxMint. My real name is Umut. I am 14 years old. I am i
     * JS (Simple Level)
    
 * Programming Languages ​​I am Interested in and Aim for:
- * Programming Languages ​​I'm Interested In:
-  * Python
-  * HTML
-  * CSS
-  * JS
- * Programming languages ​​that are in my target for the future:
-  * C
-  * CPP / C++
-  * Assembly (Simple or intermediate level)
-  * C# / CS
+  * Programming Languages ​​I'm Interested In:
+   * Python
+   * HTML
+   * CSS
+   * JS
+  * Programming languages ​​that are in my target for the future:
+   * C
+   * CPP / C++
+   * Assembly (Simple or intermediate level)
+   * C# / CS
 
 NOTE: My projects and software have GPL2 License. (License changes may be made in the future.)
 
-Operating systems I use and experience:
+* Operating systems I use and experience:
  * Operating Systems I use:
-   *Windows 10,11
-   *Linux Mint
+   * Windows 10,11
+   * Linux Mint
  * Operating systems I have experience with:
    * Windows Xp,Vista,7,8.1 (VMware Workstation)
    * Ubuntu Desktop 20+ (Live CD and VMware Workstation)
