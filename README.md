@@ -77,3 +77,5 @@ NOTE: My projects and software have GPL2 License. (License changes may be made i
    * MikeOS and MikeOS Distribution (VMware Workstation)
    * MSDOS (VMware Workstation)
    * macOS Mavericks 10.9.5 (VMware Workstation)
+
+<img src="https://komarev.com/ghpvc/?username=LinuxUsersLinuxMint"/>
