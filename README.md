@@ -12,6 +12,7 @@ NOT: Projelerim ve yazılımlarım GPL2 Lisansına sahiptir. (İlerleyen zamanla
     * HTML (Programlama değil işaretleme dilidir.) (Orta Düzey)
     * CSS (Orta Düzey)
     * JS (Basit Düzey)
+    * C (Basit Düzey)
    
 * İlgilendiğim Ve Hedefimde Olan Programlama Dilleri:
  * İlgilendiğim Programlama Dilleri:
@@ -19,8 +20,8 @@ NOT: Projelerim ve yazılımlarım GPL2 Lisansına sahiptir. (İlerleyen zamanla
    * HTML
    * CSS
    * JS
- * Gelecek için Hedefimde Olan Programlama dilleri:
    * C
+ * Gelecek için Hedefimde Olan Programlama dilleri:
    * CPP / C++
    * Assembly (Basit veya orta düzeyde)
    * C# / CS
@@ -52,6 +53,7 @@ NOTE: My projects and software have GPL2 License. (License changes may be made i
     * HTML (It is a markup language, not a programming language.) (Intermediate)
     * CSS (Intermediate)
     * JS (Simple Level)
+    * C (Simple Level)
    
 * Programming Languages ​​I am Interested in and Aim for:
  * Programming Languages ​​I'm Interested In:
@@ -59,8 +61,8 @@ NOTE: My projects and software have GPL2 License. (License changes may be made i
    * HTML
    * CSS
    * JS
- * Programming languages ​​that are in my target for the future:
    * C
+ * Programming languages ​​that are in my target for the future:
    * CPP / C++
    * Assembly (Simple or intermediate level)
    * C# / CS
