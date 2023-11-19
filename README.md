@@ -4,7 +4,7 @@ Merhaba Ben LinuxUsersLinuxMint Gerçek Adım Umut 14 Yaşımdayım Yazılım İ
 NOT: Projelerim ve yazılımlarım GPL2 Lisansına sahiptir. (İlerleyen zamanlarda Lisans değişikliği yapılabilir.)
 
 * Bildiğim Programlama Dilleri Ve Araçları/Kullandığım (Basit / Orta / İleri Düzey)
-  * Bildiğim Programlama Araçları (Kullandığım)
+  * Bildiğim Programlama Araçları ()
     * Visual Studio Code (Orta Düzey)
     * Visual Studio 2019,2022 (Basit Düzey)
   * Bildiğim Programlama Dilleri (Basit / Orta / İleri Düzey):
@@ -46,7 +46,7 @@ Hello, I am LinuxUsersLinuxMint. My real name is Umut. I am 14 years old. I am i
 NOTE: My projects and software have GPL2 License. (License changes may be made in the future.)
 
 * Programming Languages ​​and Tools I Know/Used (Basic / Intermediate / Advanced Level)
-  * Programming Tools I Know (What I Use)
+  * Programming Tools I Know ()
     * Visual Studio Code (Intermediate)
     * Visual Studio 2019,2022 (Basic Level)
   * Programming Languages ​​I Know (Basic / Intermediate / Advanced):
