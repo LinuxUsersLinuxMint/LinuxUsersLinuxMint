@@ -30,9 +30,10 @@ NOT: Projelerim ve yazılımlarım GPL2 Lisansına sahiptir. (İlerleyen zamanla
 * Kullandığım Ve Deneyimlediğim işletim sistemleri:
  * Kullandığım İşletim Sistemleri:
    * Windows 10,11
-   * Linux Mint
+   * Linux Mint 21.3 Virginia
  * Deneyimlediğim işletim sistemleri:
-   * Windows Xp,Vista,7,8.1 (VMware Workstation)
+   * Linux Mint 21.2 Victoria
+   * Windows XP,Vista,7,8.1 (VMware Workstation)
    * Ubuntu Desktop 20+ (Live CD and VMware Workstation)
    * Kubuntu (Live CD and VMware Workstation)
    * Slax Linux (VMware Workstation)
@@ -72,9 +73,10 @@ NOTE: My projects and software have GPL2 License. (License changes may be made i
 * Operating systems I use and experience:
  * Operating Systems I use:
    * Windows 10,11
-   * Linux Mint
+   * Linux Mint 21.3 Virginia
  * Operating systems I have experience with:
-   * Windows Xp,Vista,7,8.1 (VMware Workstation)
+   * Linux Mint 21.2 Victoria 
+   * Windows XP,Vista,7,8.1 (VMware Workstation)
    * Ubuntu Desktop 20+ (Live CD and VMware Workstation)
    * Kubuntu (Live CD and VMware Workstation)
    * Slax Linux (VMware Workstation)
