@@ -1,6 +1,6 @@
 Turkish(Türkçe):
 
-Merhaba Ben LinuxUsersLinuxMint Gerçek Adım Umut 14 Yaşımdayım Yazılım İle ilgileniyorum ve Linux Mint kullanıyorum.
+Merhaba Ben LinuxUsersLinuxMint Gerçek Adım Umut 15 Yaşımdayım Yazılım İle ilgileniyorum ve Linux Mint kullanıyorum.
 NOT: Projelerim ve yazılımlarım GPL2 Lisansına sahiptir. (İlerleyen zamanlarda Lisans değişikliği yapılabilir.)
 
 * Bildiğim Programlama Dilleri Ve Araçları/Kullandığım (Basit / Orta / İleri Düzey)
@@ -42,7 +42,7 @@ NOT: Projelerim ve yazılımlarım GPL2 Lisansına sahiptir. (İlerleyen zamanla
   
 English (İngilizce):
 
-Hello, I am LinuxUsersLinuxMint. My real name is Umut. I am 14 years old. I am interested in software and I use Linux Mint.
+Hello, I am LinuxUsersLinuxMint. My real name is Umut. I am 15 years old. I am interested in software and I use Linux Mint.
 NOTE: My projects and software have GPL2 License. (License changes may be made in the future.)
 
 * Programming Languages ​​and Tools I Know/Used (Basic / Intermediate / Advanced Level)
