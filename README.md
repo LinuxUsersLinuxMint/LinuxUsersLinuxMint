@@ -30,9 +30,12 @@ NOT: Projelerim ve yazılımlarım GPL2 Lisansına sahiptir. (İlerleyen zamanla
 * Kullandığım Ve Deneyimlediğim işletim sistemleri:
  * Kullandığım İşletim Sistemleri:
    * Windows 10,11
-   * Linux Mint 21.3 Virginia
+   * Linux Mint 22 Wilma
+   * macOS Ventura (13.7.1)
  * Deneyimlediğim işletim sistemleri:
    * Linux Mint 21.2 Victoria
+   * Linux Mint 21.3 Virginia
+   * macOS Monterey
    * Windows XP,Vista,7,8.1 (VMware Workstation)
    * Ubuntu Desktop 20+ (Live CD and VMware Workstation)
    * Kubuntu (Live CD and VMware Workstation)
@@ -73,9 +76,12 @@ NOTE: My projects and software have GPL2 License. (License changes may be made i
 * Operating systems I use and experience:
  * Operating Systems I use:
    * Windows 10,11
-   * Linux Mint 21.3 Virginia
+   * Linux Mint 22 Wilma
+   * macOS Ventura (13.7.1)
  * Operating systems I have experience with:
-   * Linux Mint 21.2 Victoria 
+   * Linux Mint 21.2 Victoria
+   * Linux Mint 21.3 Virginia
+   * macOS Monterey
    * Windows XP,Vista,7,8.1 (VMware Workstation)
    * Ubuntu Desktop 20+ (Live CD and VMware Workstation)
    * Kubuntu (Live CD and VMware Workstation)
