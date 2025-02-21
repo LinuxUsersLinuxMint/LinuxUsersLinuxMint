@@ -1,4 +1,4 @@
-Turkish(Türkçe):
+Türkçe:
 
 Merhaba Ben LinuxUsersLinuxMint Gerçek Adım Umut 15 Yaşımdayım Yazılım İle ilgileniyorum ve Linux Mint kullanıyorum.
 NOT: Projelerim ve yazılımlarım GPL2 Lisansına sahiptir. (İlerleyen zamanlarda Lisans değişikliği yapılabilir.)
@@ -44,7 +44,7 @@ NOT: Projelerim ve yazılımlarım GPL2 Lisansına sahiptir. (İlerleyen zamanla
    * MSDOS (VMware Workstation)
    * macOS Mavericks 10.9.5 (VMware Workstation)
   
-English (İngilizce):
+English:
 
 Hello, I am LinuxUsersLinuxMint. My real name is Umut. I am 15 years old. I am interested in software and I use Linux Mint.
 NOTE: My projects and software have GPL2 License. (License changes may be made in the future.)
